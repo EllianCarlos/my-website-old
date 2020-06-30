@@ -1,0 +1,16 @@
+mat-toolbar {
+
+  :nth-child(2) {
+    margin-left: 4rem;
+  }
+}
+.spacer {
+  flex: 1 1 auto;
+}
+
+// .mat-headline {
+//   margin-top: 0;
+//   background-color: red;
+//   height: 100%;
+//   text-align: center;
+// }

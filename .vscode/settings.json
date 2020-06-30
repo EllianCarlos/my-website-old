@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/node_modules/[^@]*": true,
+        "**/node_modules/@[^a]*": true,
+        "**/node_modules/@a[^n]*": true,
+        "**/node_modules/@angular/{js,dist,LICENSE,package.json,*.md}": true
+    }
+}
