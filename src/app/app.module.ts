@@ -13,7 +13,8 @@ import { NavigationbarComponent } from './navigationbar/navigationbar.component'
 import { LayoutModule } from '@angular/cdk/layout';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatListModule } from '@angular/material/list';
-// import {  } from '@angular/material/';
+import { MatCardModule } from '@angular/material/card';
+import { MatCardImage } from '@angular/material/card';
 
 @NgModule({
   declarations: [AppComponent, AboutmeComponent, NavigationbarComponent],
@@ -28,6 +29,7 @@ import { MatListModule } from '@angular/material/list';
     LayoutModule,
     MatSidenavModule,
     MatListModule,
+    MatCardModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
