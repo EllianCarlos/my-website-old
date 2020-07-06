@@ -15,9 +15,10 @@ import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatListModule } from '@angular/material/list';
 import { MatCardModule } from '@angular/material/card';
 import { MatCardImage } from '@angular/material/card';
+import { DetailsaboutmeComponent } from './detailsaboutme/detailsaboutme.component';
 
 @NgModule({
-  declarations: [AppComponent, AboutmeComponent, NavigationbarComponent],
+  declarations: [AppComponent, AboutmeComponent, NavigationbarComponent, DetailsaboutmeComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,

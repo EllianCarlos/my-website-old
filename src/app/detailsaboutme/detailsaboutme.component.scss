@@ -1,0 +1,18 @@
+div.aboutme-conteineir {
+    
+    height:23rem;
+    width: 100%;
+    background-color: #212121;
+
+    color: #FFFEF8;
+
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-around;
+
+    mat-card {
+        height: 18rem;
+        width: 18rem;
+    }
+}
