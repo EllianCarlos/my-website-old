@@ -1,0 +1,16 @@
+global:
+  pt: Português
+  en: Inglês
+  lang_desc: Linguagem
+pages:
+  Sobre Mim: Sobre Mim
+  Resources and Rerefences: Referencias
+  # Language: Referencias
+  # home: Home
+  # work: Work
+titles:
+  aboutme: "Sobre mim"
+  my_name: "Ellian Carlos Blog"
+  404title: "404 - Page not found"
+subtitles:
+  aboutme: "Apaixonado por Matemática, Ciência da Computação e Robótica"
